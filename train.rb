@@ -28,6 +28,7 @@ class Train
     distance / speed
   end
 
+  # Show the distance traveled
   def trip_distance
     distance 
   end
