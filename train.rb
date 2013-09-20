@@ -25,7 +25,7 @@ class Train
   #
   # Returns the Integer time of the trip. 
   def trip_duration(distance)
-    distacne * speeed
+    distance / speeed
   end
   
 
